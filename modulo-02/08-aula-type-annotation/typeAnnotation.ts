@@ -11,11 +11,11 @@
 export { };
 
 // ==> Variáveis [Type Annotations]
-let nome: string = 'Glaucia Lemos';
+let nome: string = 'Kevin Diego';
 console.log(nome);
 
 // ==> Arrays [Type Annotations]
-let animais: string[] = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa'];
+let animais: string[] = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa', 'Leão'];
 console.log(animais);
 
 // ==> Objetos [Type Annotations]

@@ -6,5 +6,5 @@
  * author: Glaucia Lemos <@glaucia_lemos86>
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B
  */
-let mensagem = 'Hello World, Glaucia Lemos!';
+let mensagem = 'Hello World, Kevin Diego';
 console.log(mensagem);

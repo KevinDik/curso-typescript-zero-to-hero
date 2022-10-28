@@ -6,5 +6,5 @@
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B
  */
 
-let mensagem: string = 'Hello World, Glaucia Lemos!';
+let mensagem: string = 'Hello World, Kevin Diego';
 console.log(mensagem);

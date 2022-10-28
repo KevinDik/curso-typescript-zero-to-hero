@@ -1,4 +1,5 @@
 "use strict";
+/* eslint-disable prettier/prettier */
 /**
  * arquivo: typeAnnotation.ts
  * descrição: arquivo responsável por ensinar conceitos básicos sobre 'Type Annotation'
@@ -7,11 +8,12 @@
  * doc referência: https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
  */
+Object.defineProperty(exports, "__esModule", { value: true });
 // ==> Variáveis [Type Annotations]
-let nome = 'Glaucia Lemos';
+let nome = 'Kevin Diego';
 console.log(nome);
 // ==> Arrays [Type Annotations]
-let animais = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa'];
+let animais = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa', 'Leão'];
 console.log(animais);
 // ==> Objetos [Type Annotations]
 let carro;
